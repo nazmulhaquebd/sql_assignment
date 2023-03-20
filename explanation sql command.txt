@@ -1,0 +1,20 @@
+       A brief explanation of each SQL command and its purpose.
+
+
+SELECT: Used to retrieve data from one or more tables in a database.The SELECT keyword specifies the columns that you want to retrieve data from. You can either specify the column names or use the wildcard * to select all columns.
+
+FROM: The FROM keyword specifies the table or tables from which you want to retrieve data.
+
+WHERE: The WHERE keyword is optional and is used to filter data based on a specified condition. It is used to specify the criteria that must be met for a row to be returned.
+
+UPDATE: The UPDATE keyword specifies the name of the table that you want to modify.
+
+INSERT INTO: Used to insert new rows into a table. 
+
+DELETE: The DELETE command is used to remove rows from a table.
+
+ORDER BY: The ORDER BY command is used to sort the results of a query based on one or more columns. You can specify ASC (ascending) or DESC (descending) order for each column.
+
+  
+
+                                               
